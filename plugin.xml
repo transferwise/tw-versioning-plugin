@@ -1,0 +1,4 @@
+<plugin name='tw-versioning-plugin' version='1.0' grailsVersion='2.3 &gt; *'>
+  <type>TwVersioningPluginGrailsPlugin</type>
+  <resources />
+</plugin>
